@@ -1,0 +1,64 @@
+VIDEO RECORDING GUIDE - ROULETTE PREDICTION SYSTEM
+
+PREPARATION:
+1. Make sure all demo scripts are ready: animate_roulette.py, demo_window.py, and demo_minimal.py
+2. Have the voiceover script open and ready to read
+3. Check that your microphone is working properly
+4. Arrange for a quiet recording environment
+5. Make sure you have screen recording software ready (e.g., OBS, Camtasia, or even Windows Game Bar)
+
+RECORDING SEQUENCE:
+
+1. INTRO SLIDE (15-20 seconds)
+   - Create a simple title slide showing "Roulette Prediction System using Reinforcement Learning"
+   - Include your name/institution if needed
+   - Read the [INTRO] section of the voiceover script
+
+2. SYSTEM OVERVIEW (30-40 seconds)
+   - Show a diagram or flowchart of the system architecture
+   - Alternatively, show the neural network visualization from demo_window.py
+   - Read the [SYSTEM OVERVIEW] section of the voiceover script
+
+3. ANIMATION DEMONSTRATION (60-90 seconds)
+   - Run "python animate_roulette.py"
+   - Let the animation run from start to finish
+   - Narrate what's happening using the [ANIMATION DEMONSTRATION] section of the script
+   - Point out key elements as they appear:
+     * Initial ball and wheel speeds
+     * The moment prediction is made
+     * Ball slowing down and moving inward
+     * Final outcome matching the prediction
+
+4. NEURAL NETWORK EXPLANATION (30-40 seconds)
+   - Run "python demo_window.py" and focus on the neural network visualization
+   - Alternatively, show plots/neural_network_visualization.png
+   - Read the [NEURAL NETWORK EXPLANATION] section of the script
+   - Point out the different layers and connections in the network
+
+5. TRAINING RESULTS (30-40 seconds)
+   - Show the training metrics plot (plots/training_metrics_demo.png)
+   - Alternatively, run the demo_minimal.py and skip to the metrics section
+   - Read the [TRAINING RESULTS] section of the script
+   - Point out the upward trend in accuracy and reward
+
+6. CONCLUSION (15-20 seconds)
+   - Return to a simple slide or the main animation
+   - Read the [CONCLUSION] section of the script
+
+TOTAL VIDEO LENGTH: Approximately 3-4 minutes
+
+TIPS FOR RECORDING:
+- Speak clearly and at a moderate pace
+- Pause briefly between sections
+- Consider recording the screen and audio separately if easier
+- If you make a mistake, pause, take a breath, and start the section again
+- You can edit out mistakes later
+- Test your recording setup before doing the full recording
+- Make sure the animations and visualizations are clearly visible
+
+EDITING TIPS:
+- Trim any long pauses or mistakes
+- Add simple transitions between sections if desired
+- Consider adding soft background music (optional)
+- Ensure audio levels are consistent throughout
+- Add captions or subtitles if presenting to a diverse audience 
